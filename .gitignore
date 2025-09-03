@@ -1,0 +1,8 @@
+.env
+.gradle
+.settings
+.project
+bin
+build
+pyenv
+testfiles
